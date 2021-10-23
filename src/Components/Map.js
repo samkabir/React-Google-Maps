@@ -4,8 +4,8 @@ import { GoogleMap, LoadScript } from '@react-google-maps/api';
 // Cascading Style
 
 const containerStyle = {
-    width: '400vw',
-    height: '400vh'
+    width: '100vw',
+    height: '100vh'
   };
 
 
